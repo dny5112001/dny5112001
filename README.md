@@ -1,6 +1,6 @@
 Hi there 👋 I'm Deepak Yadav!
 
-I'm a passionate React Native and Web Developer with expertise in building dynamic mobile apps and responsive web platforms. With a strong foundation in React.js, Next.js, and Node.js, I specialize in delivering seamless UI/UX, optimizing performance, and creating scalable, user-centric solutions. Currently pursuing a BE in Information Technology, I blend technical prowess with Crafty skills to craft impactful digital experiences.
+I'm a passionate React Native and Web Developer with expertise in building dynamic mobile apps and responsive web platforms. With a strong foundation in React.js, Next.js, and Node.js, I specialize in delivering seamless UI/UX, optimizing performance, and creating scalable, user-centric solutions.I blend technical prowess with Crafty skills to craft impactful digital experiences.
 
 ---
 
@@ -42,8 +42,7 @@ I'm a passionate React Native and Web Developer with expertise in building dynam
 ---
 
 📫 How to Reach Me:  
-- LinkedIn: [Deepak Yadav](https://www.linkedin.com/in/deepak-yadav)  
-- Email: [yadavdeepak52001@gmail.com](mailto:yadavdeepak52001@gmail.com)  
+- Email: [yadavdeepak5112001@gmail.com](mailto:yadavdeepak5112001@gmail.com)  
 - GitHub: [dny5112001](https://github.com/dny5112001)  
 - Portfolio: [deepakyadavportfolio.netlify.app](https://deepakyadavportfolio.netlify.app/)  
 
