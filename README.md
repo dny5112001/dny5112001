@@ -43,8 +43,7 @@ I'm a passionate React Native and Web Developer with expertise in building dynam
 
 📫 How to Reach Me:  
 - Email: [yadavdeepak5112001@gmail.com](mailto:yadavdeepak5112001@gmail.com)  
-- GitHub: [dny5112001](https://github.com/dny5112001)  
-- Portfolio: [deepakyadavportfolio.netlify.app](https://deepakyadavportfolio.netlify.app/)  
+- GitHub: [dny5112001](https://github.com/dny5112001)   
 
 
  ⚡ Fun Fact:  
