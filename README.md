@@ -2,85 +2,107 @@
 
 # Hi, I'm Deepak Yadav 👋
 
-**Full Stack Developer** · React · React Native · Next.js · Node.js · Rust
+### Full Stack Developer — web, mobile & developer tools
 
-I build web platforms, mobile apps and developer tools, from pixel-perfect frontends to the backends behind them.
+I build products end to end: pixel-perfect frontends, the APIs behind them, and the infrastructure they run on.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-three-lake-11.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadavdeepak93/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/deepakyadav_5)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadavdeepak5112001@gmail.com)
+<a href="https://portfolio-three-lake-11.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/yadavdeepak93/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/deepakyadav_5"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="mailto:yadavdeepak5112001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
+<br />
 
 ## 🚀 Featured Work
 
-| Project | What it is | Type | Role |
-|---|---|---|---|
-| **[Billzup](https://play.google.com/store/apps/details?id=com.nexttinstudio.billzup)** | Offline-first invoice & estimate maker for Android, live on the Play Store. No account, no subscription — clients, items, taxes and 56 invoice designs, all stored on-device. | Mobile App | Full Stack |
-| **[Mailroom](https://github.com/dny5112001/mailroom)** | Fast, single-binary SMTP server and web inbox for testing email locally, built in Rust. Live inbox, wait API, and link/OTP extraction for automated tests. | Developer Tool | Full Stack |
-| **[REVERSE.](https://www.reversetcg.xyz/)** | Crypto gacha platform to open limited-edition packs, collect rare digital items and trade pulls in a marketplace. | Web App | Full Stack |
-| **[TAKEYANI Co.](https://takeyani.com/)** | Corporate site for a tech & creative agency — system development, digital marketing, video production and international trade. | Website | Frontend |
-| **[Tomomi Nagamori Clinic](https://www.nagamoriart-make.com/)** | Portfolio site for a premium art-makeup artist, with treatment galleries and booking. | Website | Frontend |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.nexttinstudio.billzup"><img src="assets/billzup.webp" alt="Billzup" /></a>
+      <h3>Billzup</h3>
+      <sub><b>MOBILE APP · FULL STACK</b></sub>
+      <p>Offline-first invoice &amp; estimate maker for Android, live on the Play Store. No account, no subscription, 56 invoice designs.</p>
+      <a href="https://play.google.com/store/apps/details?id=com.nexttinstudio.billzup">Google Play →</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/dny5112001/mailroom"><img src="assets/mailroom.webp" alt="Mailroom" /></a>
+      <h3>Mailroom</h3>
+      <sub><b>DEVELOPER TOOL · RUST</b></sub>
+      <p>Single-binary SMTP server and web inbox for testing email locally, with a wait API and link/OTP extraction for automated tests.</p>
+      <a href="https://github.com/dny5112001/mailroom">View repo →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.reversetcg.xyz/"><img src="assets/reverse.webp" alt="REVERSE." /></a>
+      <h3>REVERSE.</h3>
+      <sub><b>WEB APP · FULL STACK</b></sub>
+      <p>Crypto gacha platform: open limited-edition packs, collect rare digital items and trade pulls in a marketplace.</p>
+      <a href="https://www.reversetcg.xyz/">Visit site →</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://takeyani.com/"><img src="assets/takeyani.webp" alt="TAKEYANI Co." /></a>
+      <h3>TAKEYANI Co.</h3>
+      <sub><b>WEBSITE · FRONTEND</b></sub>
+      <p>Corporate site for a tech &amp; creative agency covering system development, marketing, video and international trade.</p>
+      <a href="https://takeyani.com/">Visit site →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.nagamoriart-make.com/"><img src="assets/nagamori.webp" alt="Tomomi Nagamori Clinic" /></a>
+      <h3>Tomomi Nagamori Clinic</h3>
+      <sub><b>WEBSITE · FRONTEND</b></sub>
+      <p>Portfolio site for a premium art-makeup artist, with treatment galleries and booking.</p>
+      <a href="https://www.nagamoriart-make.com/">Visit site →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 Side projects</h3>
+      <p><a href="https://github.com/dny5112001/marginalia"><b>marginalia</b></a><br /><sub>Local-first Markdown knowledge base · Tauri 2 + React</sub></p>
+      <p><a href="https://github.com/dny5112001/notchy"><b>notchy</b></a><br /><sub>Your Mac, with a personality — talks to you from the notch</sub></p>
+      <h3>📚 Guides in plain English</h3>
+      <p>
+        <a href="https://github.com/dny5112001/rust-zero-to-hero">Rust</a> ·
+        <a href="https://github.com/dny5112001/system-design-zero-to-hero">System Design</a> ·
+        <a href="https://github.com/dny5112001/kubernetes-zero-to-hero">Kubernetes</a> ·
+        <a href="https://github.com/dny5112001/terraform-zero-to-hero">Terraform</a> ·
+        <a href="https://github.com/dny5112001/k8s-terraform-lab">K8s + Terraform lab</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-## 🧪 Open Source & Side Projects
-
-- **[marginalia](https://github.com/dny5112001/marginalia)** — Local-first Markdown knowledge base (Tauri 2 + React + TypeScript)
-- **[notchy](https://github.com/dny5112001/notchy)** — Your Mac, with a personality: it talks to you from the notch (Tauri)
-
-## 📚 Learning Guides (plain English)
-
-- **[rust-zero-to-hero](https://github.com/dny5112001/rust-zero-to-hero)** — Rust from scratch, plus a real Axum API deployed with Docker, Kubernetes and Terraform
-- **[system-design-zero-to-hero](https://github.com/dny5112001/system-design-zero-to-hero)** — System design from basics to advanced, for interview prep
-- **[kubernetes-zero-to-hero](https://github.com/dny5112001/kubernetes-zero-to-hero)** — Kubernetes with examples tested on a free local kind cluster
-- **[terraform-zero-to-hero](https://github.com/dny5112001/terraform-zero-to-hero)** — Terraform with free, runnable examples
-- **[k8s-terraform-lab](https://github.com/dny5112001/k8s-terraform-lab)** — Terraform + Kubernetes locally with kind, Helm and LocalStack
+<br />
 
 ## 🛠️ Tech Stack
 
-**Frontend & Mobile**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+<div align="center">
 
-**Backend & Data**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,threejs,kotlin,tauri&perline=8" alt="Frontend and mobile" /></a>
+<br /><br />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,rust,mongodb,postgres,mysql,redis,docker&perline=8" alt="Backend and data" /></a>
+<br /><br />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes,terraform,aws,vercel,git,github,linux,figma&perline=8" alt="DevOps and tools" /></a>
 
-**DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+</div>
+
+<br />
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dny5112001&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dny5112001&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=dny5112001&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dny5112001&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 
 </div>
 
----
+<br />
 
 <div align="center">
 
-**Open to freelance work and full-time roles** — let's build something great together.
+**Open to freelance work and full-time roles — let's build something great together.**
 
 </div>
