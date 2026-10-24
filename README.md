@@ -29,7 +29,6 @@ I build web platforms, mobile apps and developer tools, from pixel-perfect front
 
 - **[marginalia](https://github.com/dny5112001/marginalia)** — Local-first Markdown knowledge base (Tauri 2 + React + TypeScript)
 - **[notchy](https://github.com/dny5112001/notchy)** — Your Mac, with a personality: it talks to you from the notch (Tauri)
-- **[EasyBill-Android](https://github.com/dny5112001/EasyBill-Android)** — Native Kotlin / Jetpack Compose invoicing app, no third-party libraries
 
 ## 📚 Learning Guides (plain English)
 
